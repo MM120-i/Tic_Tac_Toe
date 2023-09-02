@@ -22,3 +22,9 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 ![image](https://github.com/MM120-i/Tic_Tac_Toe/assets/80307451/13b7ed56-28aa-4976-98b9-10e2c2cf7669)
 
 Enjoy playing the classic Tic-Tac-Toe game against the computer!
+
+**Changelog / Updates:**
+
+- **September 02, 2023:**
+  - Changed the code format of the function 'printWinner()'.
+  - Improved code readability by adding more comments for readers.
