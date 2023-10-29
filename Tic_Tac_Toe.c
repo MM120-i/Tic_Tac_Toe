@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
+#include "Tic_Tac_Toe.h"
 
 // Define the game board and symbols
 char board[3][3];
