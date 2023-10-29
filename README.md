@@ -30,4 +30,5 @@ Enjoy playing the classic Tic-Tac-Toe game against the computer!
   - Improved code readability by adding more comments for readers.
 
 - **October 29, 2023:**
-   - Added a header file with appropriate contents. 
+   - Added a header file with appropriate contents.
+   - Added a Makefile
