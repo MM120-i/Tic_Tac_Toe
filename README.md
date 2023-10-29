@@ -28,3 +28,6 @@ Enjoy playing the classic Tic-Tac-Toe game against the computer!
 - **September 02, 2023:**
   - Changed the code format of the function 'printWinner()'.
   - Improved code readability by adding more comments for readers.
+
+- **October 29, 2023:**
+   - Added a header file with appropriate contents. 
